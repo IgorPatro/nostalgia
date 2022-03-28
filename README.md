@@ -19,7 +19,7 @@ link: [figma/carrental](https://www.figma.com/file/TQSJcEs4cvNhMs1VeYNEZo/Car-Re
 Website project, which was ready to start. It was one of my first react projects, so it is very nostalgic <3
 
 ### 4. McGrajkowo
-link: [figma/carrental](https://www.figma.com/file/TQSJcEs4cvNhMs1VeYNEZo/Car-Rental?node-id=0%3A1)
+link: [figma/mcgrajkowo](https://www.figma.com/file/JdPbcFiBkeL6mDW60QYT7D/McGrajkowo?node-id=0%3A1)
 
 I used to be a gamer, so I wanted to create something that could be passionate for me and, at the same time - be profitable. We decided to make a server with my friend. Building it required multiple DevOps and java proficiency skills, so we decided that we could not create it. We have created the whole business structure and the website with payments but all those - sank like a ship.
 
