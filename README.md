@@ -1,5 +1,7 @@
 # Hey! Welcome to my Nostalgia Project!
 
+## Status: ````In progress````
+
 ### What is it?
 This project is a compilation of all my work which is not unfortunately published to the whole world 🙁. I entirely created the projects, designs, schemas and ideas listed below. Unfortunately, those are only the basic drafts, mainly because clients or even myself sometimes abandoned those projects later on. I want to emphasize that these projects were created by me a long time ago. However, I left them behind so that I could sometimes enjoy the feeling of nostalgia and see how much progress I have made since then 😎. 
 
